@@ -34,7 +34,7 @@ Prvo dodajemo brid 5-6 te skupove {5} i {6} spajamo funkcijom unite (lijevo). Na
 
 <img src="/img/algoritmi-nad-grafovima-1/mst3.png" alt="mst3" width="600"/>
 
-Sada u strukturi imamo 2 skupa: {1,2,3,5,6} i {4}. Sljedeći brid na popisu je 2-3, ali njega nećemo dodavati jer su 2 i 3 unutar iste komponente (dodavanjem bi nastao ciklus). Slično je i za brid 4-5. Na kraju dodamo brid 4-6 i gotovi smo (jej!).
+Sada u strukturi imamo 2 skupa: {1,2,3,5,6} i {4}. Sljedeći brid na popisu je 2-3, ali njega nećemo dodavati jer su 2 i 3 unutar iste komponente (dodavanjem bi nastao ciklus). Slično je i za brid 2-5. Na kraju dodamo brid 4-6 i gotovi smo (jej!).
 
 <img src="/img/algoritmi-nad-grafovima-1/mst4.png" alt="mst4" width="300"/>
 
